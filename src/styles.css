@@ -11,7 +11,7 @@ body,
     margin: 0;
     padding: 0;
     height: 100%;
-    background: #000000;
+    background: rgb(0, 0, 20);
     font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
         helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial,
         sans-serif;
