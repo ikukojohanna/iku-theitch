@@ -121,7 +121,7 @@ function TextIku() {
                 position={[0, -1, 1]}
                 fontSize={0.12}
             >
-                25.03.2023
+                14.04.2023
             </Text>
         </>
     );
