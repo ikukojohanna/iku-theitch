@@ -9,3 +9,5 @@ Currently under construction.
 Sneak peek [here](https://iku-theitch.com/).
 
 ![ScreenShot](public/screenshot-itch.png)
+![ScreenShot](public/screenshot-itch2.png)
+
